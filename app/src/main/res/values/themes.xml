@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.KotlinMaps" parent="Theme.AppCompat.Light">
+        <!-- Customize your light theme here. -->
+        <item name ="colorPrimary">#019DF1</item>
+        <item name="colorPrimaryDark">#020202</item>
+        <item name="colorAccent">#F30606</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.KotlinMaps" parent="Base.Theme.KotlinMaps" />
+</resources>
